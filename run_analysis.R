@@ -1,3 +1,4 @@
+# Coursera Getting and Cleaning Data
 # run_analysis.R
 
 #0. prepare LIBs
